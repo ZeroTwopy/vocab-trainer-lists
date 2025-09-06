@@ -1,0 +1,39 @@
+{
+  "lista": [
+    {
+      "langA": "pies",
+      "langB": "Hünd"
+    },
+    {
+      "langA": "kot",
+      "langB": "KätzE"
+    },
+    {
+      "langA": "dom",
+      "langB": "Häus"
+    },
+    {
+      "langA": "samochód",
+      "langB": "Äuto"
+    },
+    {
+      "langA": "książka",
+      "langB": "Büch"
+    }
+  ],
+  "charlist": [
+    "ä",
+    "ü",
+    "ö",
+    "Ä",
+    "Ö",
+    "Ü",
+    "ß"
+  ],
+  "ignoreCase": true,
+  "author": "ZeroTwo",
+  "listName": "Test List 1",
+  "description": "This is list using for testing the site",
+  "langA": "Polski",
+  "langB": "Niemiecki"
+}
