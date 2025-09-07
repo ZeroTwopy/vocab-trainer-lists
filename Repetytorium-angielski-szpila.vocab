@@ -1,0 +1,738 @@
+{
+  "lista": [
+    {
+      "langA": "Rozwiedziony",
+      "langB": "Divorced"
+    },
+    {
+      "langA": "Kobieta",
+      "langB": "Female"
+    },
+    {
+      "langA": "Imię",
+      "langB": "First name"
+    },
+    {
+      "langA": "Płeć",
+      "langB": "Gender"
+    },
+    {
+      "langA": "Mężczyzna",
+      "langB": "Male"
+    },
+    {
+      "langA": "Stan cywilny",
+      "langB": "Marital status"
+    },
+    {
+      "langA": "Żonaty",
+      "langB": "Married"
+    },
+    {
+      "langA": "Drugie imię",
+      "langB": "Middle name"
+    },
+    {
+      "langA": "Zawód",
+      "langB": "Occupation"
+    },
+    {
+      "langA": "Nazwisko",
+      "langB": "Surname"
+    },
+    {
+      "langA": "Owdowiały",
+      "langB": "Widowed"
+    },
+    {
+      "langA": "Starszy",
+      "langB": "Elderly"
+    },
+    {
+      "langA": "Przystojny",
+      "langB": "Handsome"
+    },
+    {
+      "langA": "Ładny",
+      "langB": "Good-looking"
+    },
+    {
+      "langA": "Brzydki",
+      "langB": "Ugly"
+    },
+    {
+      "langA": "Pospolity",
+      "langB": "Plain"
+    },
+    {
+      "langA": "Umięśniony",
+      "langB": "Muscular"
+    },
+    {
+      "langA": "Otyły",
+      "langB": "Obese"
+    },
+    {
+      "langA": "Z nadwagą",
+      "langB": "Overweight"
+    },
+    {
+      "langA": "Z niedowagą",
+      "langB": "Underweight"
+    },
+    {
+      "langA": "Puszysty",
+      "langB": "Plump"
+    },
+    {
+      "langA": "Chudy",
+      "langB": "Skinny"
+    },
+    {
+      "langA": "Szczupły",
+      "langB": "Slim"
+    },
+    {
+      "langA": "Kręcone",
+      "langB": "Curly"
+    },
+    {
+      "langA": "Farbowane",
+      "langB": "Dyed"
+    },
+    {
+      "langA": "Rude",
+      "langB": "Ginger"
+    },
+    {
+      "langA": "Warkocz",
+      "langB": "Plait"
+    },
+    {
+      "langA": "Do ramion",
+      "langB": "Shoulder-length"
+    },
+    {
+      "langA": "Falujące",
+      "langB": "Wavy"
+    },
+    {
+      "langA": "Broda",
+      "langB": "Beard"
+    },
+    {
+      "langA": "Piegi",
+      "langB": "Freckles"
+    },
+    {
+      "langA": "Wąsy",
+      "langB": "Moustache"
+    },
+    {
+      "langA": "Blady",
+      "langB": "Pale"
+    },
+    {
+      "langA": "Opalony",
+      "langB": "Tanned"
+    },
+    {
+      "langA": "Przekłute uszy",
+      "langB": "Pierced ears"
+    },
+    {
+      "langA": "Blizna",
+      "langB": "Scar"
+    },
+    {
+      "langA": "Pryszczaty",
+      "langB": "Spotty"
+    },
+    {
+      "langA": "Tatuaż",
+      "langB": "Tattoo"
+    },
+    {
+      "langA": "Zmarszczki",
+      "langB": "Wrinkles"
+    },
+    {
+      "langA": "Wybierać",
+      "langB": "Go for"
+    },
+    {
+      "langA": "Osiwieć",
+      "langB": "Go grey"
+    },
+    {
+      "langA": "Wyłysieć",
+      "langB": "Go bald"
+    },
+    {
+      "langA": "Malować paznokcie",
+      "langB": "Paint your nails"
+    },
+    {
+      "langA": "Przybierać na wadze",
+      "langB": "Put on weight"
+    },
+    {
+      "langA": "Tracić na wadze",
+      "langB": "Lose weight"
+    },
+    {
+      "langA": "Prostować",
+      "langB": "Straighten"
+    },
+    {
+      "langA": "Bluzka",
+      "langB": "Blouse"
+    },
+    {
+      "langA": "Kozaki",
+      "langB": "Boots"
+    },
+    {
+      "langA": "Bluza polarowa",
+      "langB": "Fleece"
+    },
+    {
+      "langA": "Wysokie obcasy",
+      "langB": "High heels"
+    },
+    {
+      "langA": "Bluza z kapturem",
+      "langB": "Hoodie"
+    },
+    {
+      "langA": "Kurtka",
+      "langB": "Jacket"
+    },
+    {
+      "langA": "Sweter",
+      "langB": "Jumper"
+    },
+    {
+      "langA": "Piżama",
+      "langB": "Pyjamas"
+    },
+    {
+      "langA": "Trampki",
+      "langB": "Sneakers"
+    },
+    {
+      "langA": "Buty",
+      "langB": "Shoes"
+    },
+    {
+      "langA": "Spódnica",
+      "langB": "Skirt"
+    },
+    {
+      "langA": "Elegancki",
+      "langB": "Smart"
+    },
+    {
+      "langA": "Garnitur",
+      "langB": "Suit"
+    },
+    {
+      "langA": "Bluza sportowa",
+      "langB": "Sweatshirt"
+    },
+    {
+      "langA": "Dres",
+      "langB": "Tracksuit"
+    },
+    {
+      "langA": "Bielizna",
+      "langB": "Underwear"
+    },
+    {
+      "langA": "Kamilzelka",
+      "langB": "Waistcoat"
+    },
+    {
+      "langA": "Pasek",
+      "langB": "Belt"
+    },
+    {
+      "langA": "Bransoletka",
+      "langB": "Bracelet"
+    },
+    {
+      "langA": "Guzik",
+      "langB": "Button"
+    },
+    {
+      "langA": "Kolczyki",
+      "langB": "Earrings"
+    },
+    {
+      "langA": "Rękawiczki",
+      "langB": "Gloves"
+    },
+    {
+      "langA": "Torebka",
+      "langB": "Handbag"
+    },
+    {
+      "langA": "Naszyjnik",
+      "langB": "Necklace"
+    },
+    {
+      "langA": "Pierścionek",
+      "langB": "Ring"
+    },
+    {
+      "langA": "Szalik",
+      "langB": "Scarf"
+    },
+    {
+      "langA": "Krawat",
+      "langB": "Tie"
+    },
+    {
+      "langA": "W kratę",
+      "langB": "Checked"
+    },
+    {
+      "langA": "Bawełna",
+      "langB": "Cotton"
+    },
+    {
+      "langA": "Dżinsowy",
+      "langB": "Denim"
+    },
+    {
+      "langA": "Futro",
+      "langB": "Fur"
+    },
+    {
+      "langA": "Skóra",
+      "langB": "Leather"
+    },
+    {
+      "langA": "Lniany",
+      "langB": "Linen"
+    },
+    {
+      "langA": "Jedwab",
+      "langB": "Silk"
+    },
+    {
+      "langA": "W kropki",
+      "langB": "Spotted"
+    },
+    {
+      "langA": "W paski",
+      "langB": "Striped"
+    },
+    {
+      "langA": "Wełna",
+      "langB": "Wool"
+    },
+    {
+      "langA": "Roztargniony",
+      "langB": "Absent-minded"
+    },
+    {
+      "langA": "Wybuchowy",
+      "langB": "Bad-tempered"
+    },
+    {
+      "langA": "Apodyktyczny",
+      "langB": "Bossy"
+    },
+    {
+      "langA": "Ostrożny",
+      "langB": "Careful"
+    },
+    {
+      "langA": "Nieostrożny",
+      "langB": "Careless"
+    },
+    {
+      "langA": "Pewny siebie",
+      "langB": "Confident"
+    },
+    {
+      "langA": "Zbyt pewny siebie",
+      "langB": "Overconfident"
+    },
+    {
+      "langA": "Wyluzowany",
+      "langB": "Easygoing"
+    },
+    {
+      "langA": "Ekstrawertyk",
+      "langB": "Extrovert"
+    },
+    {
+      "langA": "Delikatny",
+      "langB": "Gentle"
+    },
+    {
+      "langA": "Uczynny",
+      "langB": "Helpful"
+    },
+    {
+      "langA": "Nieskory do pomocy",
+      "langB": "Unhelpful"
+    },
+    {
+      "langA": "Uczciwy",
+      "langB": "Honest"
+    },
+    {
+      "langA": "Nieuczciwy",
+      "langB": "Dishonest"
+    },
+    {
+      "langA": "Pomysłowy",
+      "langB": "Imaginative"
+    },
+    {
+      "langA": "Bez wyobraźni",
+      "langB": "Unimaginative"
+    },
+    {
+      "langA": "Introwertyk",
+      "langB": "Introvert"
+    },
+    {
+      "langA": "Bałaganiarski",
+      "langB": "Messy"
+    },
+    {
+      "langA": "Skromny",
+      "langB": "Modest"
+    },
+    {
+      "langA": "Ograniczony",
+      "langB": "Narrow-minded"
+    },
+    {
+      "langA": "Optymistyczny",
+      "langB": "Optimistic"
+    },
+    {
+      "langA": "Pesymistyczny",
+      "langB": "Pessimistic"
+    },
+    {
+      "langA": "Otwarty",
+      "langB": "Outgoing"
+    },
+    {
+      "langA": "Cierpliwy",
+      "langB": "Patient"
+    },
+    {
+      "langA": "Niecierpliwy",
+      "langB": "Impatient"
+    },
+    {
+      "langA": "Uprzejmy",
+      "langB": "Polite"
+    },
+    {
+      "langA": "Nieuprzejmy",
+      "langB": "Impolite"
+    },
+    {
+      "langA": "Niezawodny",
+      "langB": "Reliable"
+    },
+    {
+      "langA": "Zawodny",
+      "langB": "Unreliable"
+    },
+    {
+      "langA": "Samolubny",
+      "langB": "Selfish"
+    },
+    {
+      "langA": "Bezinteresowny",
+      "langB": "Unselfish"
+    },
+    {
+      "langA": "Wrażliwy",
+      "langB": "Sensitive"
+    },
+    {
+      "langA": "Towarzyski",
+      "langB": "Sociable"
+    },
+    {
+      "langA": "Nietowarzyski",
+      "langB": "Unsociable"
+    },
+    {
+      "langA": "Schludny",
+      "langB": "Tidy"
+    },
+    {
+      "langA": "Niechlujny",
+      "langB": "Untidy"
+    },
+    {
+      "langA": "Tolerancyjny",
+      "langB": "Tolerant"
+    },
+    {
+      "langA": "Nietolerancyjny",
+      "langB": "Intolerant"
+    },
+    {
+      "langA": "Godny zaufania",
+      "langB": "Trustworthy"
+    },
+    {
+      "langA": "Próżny",
+      "langB": "Vain"
+    },
+    {
+      "langA": "Zirytowany",
+      "langB": "Annoyed"
+    },
+    {
+      "langA": "Zaniepokojony",
+      "langB": "Anxious"
+    },
+    {
+      "langA": "Być w dobrym humorze",
+      "langB": "Be in a good mood"
+    },
+    {
+      "langA": "Być w złym humorze",
+      "langB": "Be in a bad mood"
+    },
+    {
+      "langA": "Zawstydzony",
+      "langB": "Embarrassed"
+    },
+    {
+      "langA": "Wyczerpany",
+      "langB": "Exhausted"
+    },
+    {
+      "langA": "Przerażony",
+      "langB": "Frightened"
+    },
+    {
+      "langA": "Zadowolony",
+      "langB": "Pleased"
+    },
+    {
+      "langA": "Wystraszony",
+      "langB": "Scared"
+    },
+    {
+      "langA": "Zestresowany",
+      "langB": "Stressed"
+    },
+    {
+      "langA": "Zdziwiony",
+      "langB": "Surprised"
+    },
+    {
+      "langA": "Zmęczony",
+      "langB": "Tired"
+    },
+    {
+      "langA": "Przygnębiony",
+      "langB": "Upset"
+    },
+    {
+      "langA": "Zmartwiony",
+      "langB": "Worried"
+    },
+    {
+      "langA": "Uwielbiać",
+      "langB": "Adore"
+    },
+    {
+      "langA": "Być fanem kogoś",
+      "langB": "Be a fan of sb"
+    },
+    {
+      "langA": "Być fanem czegoś",
+      "langB": "Be a fan of sth"
+    },
+    {
+      "langA": "Być beznadziejnym w czymś",
+      "langB": "Be hopeless at sth"
+    },
+    {
+      "langA": "Interesować się czymś",
+      "langB": "Be into sth"
+    },
+    {
+      "langA": "Lubić coś robić",
+      "langB": "Be keen on sth"
+    },
+    {
+      "langA": "Szaleć za kimś",
+      "langB": "Be mad about sb"
+    },
+    {
+      "langA": "Nie znosić",
+      "langB": "Can't stand"
+    },
+    {
+      "langA": "Ograniczać ilość czegoś",
+      "langB": "Cut down on sth"
+    },
+    {
+      "langA": "Aktywności wewnątrz",
+      "langB": "Indoor activities"
+    },
+    {
+      "langA": "Aktywności zewnątrz",
+      "langB": "Outdoor activities"
+    },
+    {
+      "langA": "Znaleźć sobie jakieś hobby",
+      "langB": "Take up a hobby"
+    },
+    {
+      "langA": "Zacząć uprawiać sport",
+      "langB": "Take up a sport"
+    },
+    {
+      "langA": "Pochwalać coś",
+      "langB": "Approve of sth"
+    },
+    {
+      "langA": "Postawa wobec czegoś",
+      "langB": "Attitude towards sth"
+    },
+    {
+      "langA": "Zmienić zdanie",
+      "langB": "Change one's mind"
+    },
+    {
+      "langA": "Wolność słowa",
+      "langB": "Freedom of speech"
+    },
+    {
+      "langA": "Życzliwość",
+      "langB": "Kindness"
+    },
+    {
+      "langA": "Szacunek",
+      "langB": "Respect"
+    },
+    {
+      "langA": "Być z czegoś dumnym",
+      "langB": "Take pride in sth"
+    },
+    {
+      "langA": "Wartość",
+      "langB": "Value"
+    },
+    {
+      "langA": "Mądrość",
+      "langB": "Wisdom"
+    },
+    {
+      "langA": "Podziwiać kogoś za coś",
+      "langB": "Admire sb for sth"
+    },
+    {
+      "langA": "Być wzorem do naśladowania",
+      "langB": "Be a role model"
+    },
+    {
+      "langA": "Zainspirować się kimś",
+      "langB": "Be inspired by sb"
+    },
+    {
+      "langA": "Podziwiać kogoś",
+      "langB": "Look up to sb"
+    },
+    {
+      "langA": "Samoocena",
+      "langB": "Self-esteem"
+    },
+    {
+      "langA": "Wytworzyć alternatywne rozwiązanie",
+      "langB": "Generate an alternative"
+    },
+    {
+      "langA": "Wpaść na pomysł",
+      "langB": "Come up with an idea"
+    },
+    {
+      "langA": "Myśleć w nieszablonowy sposób",
+      "langB": "Think outside the box"
+    },
+    {
+      "langA": "Myśleć w twórczy sposób",
+      "langB": "Think creatively"
+    },
+    {
+      "langA": "Rozwiązać problem",
+      "langB": "Solve a problem"
+    },
+    {
+      "langA": "Znaleźć rozwiązanie",
+      "langB": "Work out a dilemma"
+    },
+    {
+      "langA": "Rozpatrywać kwestię z różnych punktów widzenia",
+      "langB": "Think from a different perspectives"
+    },
+    {
+      "langA": "Skrzyżować nogi",
+      "langB": "Cross one's legs"
+    },
+    {
+      "langA": "Kręcić się",
+      "langB": "Fidget"
+    },
+    {
+      "langA": "Założyć ręce",
+      "langB": "Fold one's arms"
+    },
+    {
+      "langA": "Zwiesić głowę",
+      "langB": "Hang one's head"
+    },
+    {
+      "langA": "Nieskazitelny",
+      "langB": "Immaculate"
+    },
+    {
+      "langA": "Wrodzony",
+      "langB": "Inbuilt"
+    },
+    {
+      "langA": "Nawiązać kontakt wzrokowy",
+      "langB": "Make eye contact"
+    },
+    {
+      "langA": "Dziarsko się ruszać",
+      "langB": "Move briskly"
+    },
+    {
+      "langA": "Odsłonić",
+      "langB": "Reveal"
+    },
+    {
+      "langA": "Przewracać oczami",
+      "langB": "Roll one's eyes"
+    }
+  ],
+  "charlist": [
+    "'",
+    "-"
+  ],
+  "ignoreCase": true,
+  "author": "Szpila",
+  "listName": "Repetytorium Rozdział 01 Angielski",
+  "description": "Słówka podstawowe z Repetytorium rozdział 01 (angielski)",
+  "langA": "Polski",
+  "langB": "Angielski"
+}
